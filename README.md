@@ -1,7 +1,7 @@
 # BIRTHDAY-WISH
 
 
-Live demo: 
+Live demo:  https://neha807.github.io/birthday-animation/
 
 # Output-1
 ![alt text](<Screenshot 2024-07-18 113841.png>)
